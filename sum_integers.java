@@ -1,6 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
-        String sample_input="PRA12Ga782d45601$3";
+        String sample_input="PRA12Ga782d45601$3 76";
 
         int sum=0;
     
